@@ -2,10 +2,10 @@
 Very simple Python script to know hostname & hostaddr by URL,  
 Just clone it & run it. 
 
-$ git clone https://github.com/imohafa/gethost.git
+> git clone https://github.com/imohafa/gethost.git
 #
-$ cd gethost 
+> cd gethost 
 #
-$ python3 GetHost.py 
+> python3 GetHost.py 
 #
-$ Enter URL: .....
+> Enter URL: .....
