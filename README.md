@@ -7,4 +7,5 @@ Just clone it & run it.
 >* cd GetHost
 >* chmod +x GetHost.py
 >* python3 GetHost.py
->* Enter URL: . . .
+
+* Enter URL: . . .
