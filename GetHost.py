@@ -1,6 +1,6 @@
 import socket
 
-print("     GetHost  \n Twitter: @moodix0 \n Github: @moodix94 \n")
+print("     GetHost  \n Twitter: @moodix0 \n Github: @moodix0 \n")
 
 
 def host():
